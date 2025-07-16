@@ -1,0 +1,32 @@
+# Ambiente virtual
+venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos do sistema
+Thumbs.db
+Desktop.ini
+
+# OneDrive conflitos/sincronizações
+*.lnk
+~$*
+
+# Jupyter (se for usar futuramente)
+.ipynb_checkpoints/
+
+# Segurança (caso crie por engano)
+.env
+*.env
