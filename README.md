@@ -52,7 +52,3 @@ conexao_mysql_segura/
 Este script faz parte de um estudo interno para documentar e padronizar acessos aos dados do servidor interno, com foco em **segurança, clareza e reusabilidade**.
 
 > Nomes fictícios foram utilizados para representar o banco de dados. Nenhum dado sensível foi exposto.
-
-- Item com hífen
-* Item com asterisco
-+ Item com sinal de mais
